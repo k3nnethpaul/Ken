@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+N;CHARSET=UTF-8:Paul;Kenneth;;;
+FN;CHARSET=UTF-8:Kenneth Paul
+ORG;CHARSET=UTF-8:Portal Productions LLC
+TITLE;CHARSET=UTF-8:Business Development Executive
+TEL;TYPE=WORK,VOICE:+96876718671
+ADR;TYPE=WORK,PREF:;;Ansab\, Muscat;Muscat;Ansab;113;Oman
+EMAIL:kenneth@portalproductions.org
+URL:https://www.portalproductions.org/
+END:VCARD
